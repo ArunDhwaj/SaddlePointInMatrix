@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d105bf4-e333-43eb-9126-d75d2ca21a71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ciCU2RVn9qHsQe8BbKakAvibIn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="program" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SaddlePointInMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="program.SaddlePointInMatrix" />
+      <module name="SaddlePointInMatrix" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SaddlePointInMatrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d105bf4-e333-43eb-9126-d75d2ca21a71" name="Default Changelist" comment="" />
+      <created>1591002038101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591002038101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="219" y="0" key="#Project_Structure" timestamp="1591008820793">
+      <screen x="0" y="0" width="1270" height="641" />
+    </state>
+    <state x="219" y="0" key="#Project_Structure/0.0.1270.641@0.0.1270.641" timestamp="1591008820793" />
+    <state x="357" y="80" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1591004613482">
+      <screen x="0" y="0" width="1270" height="641" />
+    </state>
+    <state x="357" y="80" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1270.641@0.0.1270.641" timestamp="1591004613482" />
+    <state x="423" y="185" width="407" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591004617042">
+      <screen x="0" y="0" width="1270" height="641" />
+    </state>
+    <state x="423" y="185" width="407" height="238" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1270.641@0.0.1270.641" timestamp="1591004617042" />
+    <state x="333" y="61" key="FileChooserDialogImpl" timestamp="1591008818528">
+      <screen x="0" y="0" width="1270" height="641" />
+    </state>
+    <state x="333" y="61" key="FileChooserDialogImpl/0.0.1270.641@0.0.1270.641" timestamp="1591008818528" />
+    <state width="1190" height="140" key="GridCell.Tab.0.bottom" timestamp="1591012884333">
+      <screen x="0" y="0" width="1270" height="641" />
+    </state>
+    <state width="1190" height="140" key="GridCell.Tab.0.bottom/0.0.1270.641@0.0.1270.641" timestamp="1591012884333" />
+    <state width="1190" height="140" key="GridCell.Tab.0.center" timestamp="1591012884333">
+      <screen x="0" y="0" width="1270" height="641" />
+    </state>
+    <state width="1190" height="140" key="GridCell.Tab.0.center/0.0.1270.641@0.0.1270.641" timestamp="1591012884333" />
+    <state width="1190" height="140" key="GridCell.Tab.0.left" timestamp="1591012884333">
+      <screen x="0" y="0" width="1270" height="641" />
+    </state>
+    <state width="1190" height="140" key="GridCell.Tab.0.left/0.0.1270.641@0.0.1270.641" timestamp="1591012884333" />
+    <state width="1190" height="140" key="GridCell.Tab.0.right" timestamp="1591012884333">
+      <screen x="0" y="0" width="1270" height="641" />
+    </state>
+    <state width="1190" height="140" key="GridCell.Tab.0.right/0.0.1270.641@0.0.1270.641" timestamp="1591012884333" />
+    <state x="331" y="193" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591008860996">
+      <screen x="0" y="0" width="1270" height="641" />
+    </state>
+    <state x="331" y="193" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1270.641@0.0.1270.641" timestamp="1591008860996" />
+    <state x="9" y="0" key="new project wizard" timestamp="1591004306466">
+      <screen x="0" y="0" width="1270" height="641" />
+    </state>
+    <state x="9" y="0" key="new project wizard/0.0.1270.641@0.0.1270.641" timestamp="1591004306466" />
+  </component>
+</project>
